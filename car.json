@@ -1,24 +1,29 @@
 
-     [
-        {
-            "marca": "toyota",
-            "modelo": "corolla",
-            "ano": 2007
-        },
-        {
-            "marca": "chevrolet",
-            "modelo": "S10",
-            "ano": 2024
-        },
-        {
-            "marca": "Volkswagen",
-            "modelo": "gol-[QUADRADO]",
-            "ano": 2002
-        },
-        {
-            "marca": "fiat",
-            "modelo": "fiat argo",
-            "ano": 2023
-        }
-        
-    ]
+[
+    {
+        "marca": "toyota",
+        "modelo": "corolla",
+        "ano": 2007
+    },
+    {
+        "marca": "chevrolet",
+        "modelo": "S10",
+        "ano": 2024
+    },
+    {
+        "marca": "Volkswagen",
+        "modelo": "gol-[QUADRADO]",
+        "ano": 2002
+    },
+    {
+        "marca": "fiat",
+        "modelo": "fiat argo",
+        "ano": 2023
+    },
+    {
+        "marca": "Scania",
+        "modelo": "R700",
+        "ano": 2020
+    }
+    
+]
